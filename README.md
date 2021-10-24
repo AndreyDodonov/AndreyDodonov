@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Weber comechanics as process engineer
+- 🌱 I’m currently learning Javascript
+
 <!--
 **AndreyDodonov/AndreyDodonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
