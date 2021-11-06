@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- :disappointed_relieved: At this time working on https://github.com/AndreyDodonov/PERN_online_shop
 - 🔭 I’m currently working on Weber comechanics as process engineer
 - 🌱 I’m currently learning Javascript
 
