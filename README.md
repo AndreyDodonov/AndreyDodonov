@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :disappointed_relieved: At this time working on https://github.com/AndreyDodonov/PERN_online_shop
+- :technologist: At this time working on  [PERN stack shop](https://github.com/AndreyDodonov/PERN_online_shop) project page on notion [here](https://www.notion.so/Online-shop-817afb47ff7f44c0aead286f1c7d3ee2)
 - 🔭 I’m currently working on Weber comechanics as process engineer
 - 🌱 I’m currently learning Javascript
 
